@@ -57,4 +57,4 @@ files = os.listdir(dir)
 
 logging.info('Starting listening on localhost:8081')
 bottle.debug(True)
-bottle.run(host='controller', port=8081)
+bottle.run(host='master', port=8081)
