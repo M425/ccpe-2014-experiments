@@ -14,7 +14,7 @@
 
 import logging
 logging.basicConfig(
-    filename='/home/ubuntu/spe-2012-experiments/workload-starter.log',
+    filename='/home/fedora/ccpe-2014-experiments/workload-starter.log',
     format='%(asctime)s %(levelname)-8s %(message)s',
     level=logging.DEBUG)
 
